@@ -14,7 +14,7 @@ A terminal application that helps moms in the third trimester keep track of feta
 python3 count_my_kicks.py
 ```
 2. Answer "y" for yes or "n" for no when prompted by the question.
-3. A csv file will automatically be created called **kicks_data.csv**
+3. A csv file will automatically be created called **kicks_data.csv**.
 4. Check kicks_data.csv to see your kick counts for the day.
 
 ## Technologies Used
